@@ -1,6 +1,6 @@
 # flutter_counter
 
-A new Flutter project.
+Flutter counter using flutter_bloc.
 
 ## Getting Started
 
